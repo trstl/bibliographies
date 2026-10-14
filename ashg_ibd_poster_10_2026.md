@@ -1,7 +1,9 @@
 # References
 
 *Disentangling genetic risk of inflammatory bowel disease at the single-cell resolution*
+
 Tristan St-Laurent, Laurence Chapuy, Marc-André Legault
+
 American Society of Human Genetics, Montréal, 2026
 
 - Alegbe T, et al. Cell-type-resolved genetic variation shapes inflammatory bowel disease risk. *Nature* (2026). [DOI](https://doi.org/10.1038/s41586-026-10627-z)
