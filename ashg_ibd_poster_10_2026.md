@@ -12,6 +12,7 @@ American Society of Human Genetics, Montréal, 2026
 - Funke B, et al. Selective downregulation of retinoic acid-inducible gene I within the intestinal epithelial compartment in crohn's disease. *Inflammatory Bowel Diseases* (2011). [DOI](https://doi.org/10.1002/ibd.21572)
 - Han X, et al. Signal transducer and activator of transcription 5b promotes mucosal tolerance in pediatric Crohn's disease and murine colitis. *The American Journal of pathology* (2006). [DOI](https://doi.org/10.2353/ajpath.2006.060186)
 - Ilott N, et al. Tissue-dependent transcriptional and bacterial associations in primary sclerosing cholangitis-associated inflammatory bowel disease. (2020). [URL](https://www.ebi.ac.uk/biostudies/arrayexpress/studies/E-MTAB-9658)
+- Jostins L, et al. Host-microbe interactions have shaped the genetic architecture of inflammatory bowel disease. *Nature* (2012). [DOI](https://doi.org/10.1038/nature11582)
 - Liu Z, et al. Genetic architecture of the inflammatory bowel diseases across East Asian and European ancestries. *Nature Genetics* (2023). [DOI](https://doi.org/10.1038/s41588-023-01384-0)
 - Luo Q, et al. Exploration of the potential causative genes for inflammatory bowel disease: Transcriptome-wide association analysis, Mendelian randomization analysis and Bayesian colocalisation. *Heliyon* (2024). [DOI](https://doi.org/10.1016/j.heliyon.2024.e28944)
 - Quach, H, et al. Genetic Adaptation and Neandertal Admixture Shaped the Immune System of Human Populations. *Cell* (2016). [DOI](https://doi.org/10.1016/j.cell.2016.09.024)
