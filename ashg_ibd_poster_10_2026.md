@@ -20,5 +20,6 @@ American Society of Human Genetics, Montréal, 2026
 - Quach, H, et al. Genetic Adaptation and Neandertal Admixture Shaped the Immune System of Human Populations. *Cell* (2016). [DOI](https://doi.org/10.1016/j.cell.2016.09.024)
 - Schmiedel B, et al. Impact of Genetic Polymorphisms on Human Immune Cell Gene Expression. *Cell* (2018). [DOI](https://doi.org/10.1016/j.cell.2018.10.022)
 - van der Wijst M, et al. The single-cell eQTLGen consortium. *eLife* (2020). [DOI](https://doi.org/10.7554/eLife.52155)
+- Yang Y, et al. Uncovering causal gene-tissue pairs and variants through a multivariate TWAS controlling for infinitesimal effects. *Nature Communications* (2025). [DOI](https://doi.org/10.1038/s41467-025-61423-8)
 - Yazar S, et al. Single-cell eQTL mapping identifies cell type-specific genetic control of autoimmune disease. *Science* (2022). [DOI](https://doi.org/10.1126/science.abf3041)
 - Ziv A, et al. An RTEL1 Mutation Links to Infantile-Onset Ulcerative Colitis and Severe Immunodeficiency. *Journal of Clinical Immunology* (2020). [DOI](https://doi.org/10.1007/s10875-020-00829-z)
