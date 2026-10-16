@@ -9,6 +9,7 @@ American Society of Human Genetics, Montréal, 2026
 - Alegbe T, et al. Cell-type-resolved genetic variation shapes inflammatory bowel disease risk. *Nature* (2026). [DOI](https://doi.org/10.1038/s41586-026-10627-z)
 - Arnauts K, et al.  Ex vivo mimicking of inflammation in organoids derived from patients with ulcerative colitis. 2020. [URL](https://www.ebi.ac.uk/biostudies/arrayexpress/studies/E-MTAB-7860)
 - Cuomo ASE, et al. Impact of rare and common genetic variation on cell type-specific gene expression in human blood. *medRxiv* (2025). [DOI](https://doi.org/10.1101/2025.03.20.25324352)
+- Dimas AS, et al. Common Regulatory Variation Impacts Gene Expression in a Cell Type–Dependent Manner. *Science* (2009). [DOI](https://doi.org/10.1126/science.1174148)
 - Funke B, et al. Selective downregulation of retinoic acid-inducible gene I within the intestinal epithelial compartment in crohn's disease. *Inflammatory Bowel Diseases* (2011). [DOI](https://doi.org/10.1002/ibd.21572)
 - Han X, et al. Signal transducer and activator of transcription 5b promotes mucosal tolerance in pediatric Crohn's disease and murine colitis. *The American Journal of pathology* (2006). [DOI](https://doi.org/10.2353/ajpath.2006.060186)
 - Ilott N, et al. Tissue-dependent transcriptional and bacterial associations in primary sclerosing cholangitis-associated inflammatory bowel disease. (2020). [URL](https://www.ebi.ac.uk/biostudies/arrayexpress/studies/E-MTAB-9658)
